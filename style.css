@@ -1,0 +1,398 @@
+.omp {
+	height: 400px;
+}
+
+.wrapper{
+ background-image: url(img/jjjjjjj.webp);	
+	background-size: cover;
+	height:100vh;
+}
+
+.main-img {
+	float: right;
+	height:500px;
+}
+
+
+/* Товарі */
+.tovars {
+	text-align: center;
+	    background: rgb(86,195,34);
+background: linear-gradient(0deg, rgba(86,195,34,1) 0%, rgba(253,45,245,1) 100%); 
+ color: white; 
+}
+
+
+tovars-subtitle {
+	font-style: italic;
+	color: purple;
+}
+
+.tovars-title {
+	color: pink;
+	font-family: Times New Roman;
+}
+
+.menu {
+margin: 0;
+padding: 0;
+list-style: none;
+font-family: cursive;
+}
+.menu a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	font-size:24px;
+}
+.menu a:hover {
+   color: violet;	
+}
+.menu a.active {
+   color: purple;	
+}
+
+.main-title {
+color: purple;
+font-size: 40px;
+font-family: Verdana;	
+}
+
+body {
+margin:0;
+}
+
+.menu li{
+	display: inline-block;
+}
+
+.tovars ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.omp:hover {
+	transform: rotate(1turn);
+}
+
+.omp {
+	transition: all 0.5s;
+}
+
+.about-title {
+	text-align: center;
+	font-family: cursive;
+	font-style: italic;
+	font-size: 40px;
+	color: red;
+}
+
+.about-subtitle {
+	 	font-family: cursive;
+		font-size: 25px;
+		font-weight: bold;
+		color:gray ;
+}
+.bomba {
+	font-family:  	Verdana,Geneva,sans-serif;
+	font-style: italic;
+}
+.button{
+	color:purple;
+	font-family: cursive;
+	font-size: 25px;
+}
+.lox {
+	color:purple;
+	font-family: cursive;
+	font-size: 25px;
+}
+
+.about {
+	
+ background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+  
+}
+
+.about-subtitle{
+	background: white;
+	display:inline-block;
+}
+
+.pm {
+font-size: 40px;
+	 	font-family: Brush Script MT, Brush Script Std, cursive;
+		color: pink;
+		background: black;
+	display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
